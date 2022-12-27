@@ -10,3 +10,8 @@ Welcome to Noah's website!
 aaaaaaaaaaaaaaaaaaaaaaaaaaaxxxxxxxxvvvvvvvvvvvv0000000oooooooolllllllllll.
 
 xxxxxxxxxxxxxxxxx
+
+<!-- center the following image -->
+<div style="text-align:center">
+<img src="image1.jpeg" width="300" height="400" />
+</div>
